@@ -2,7 +2,7 @@
 
 A clean, professional HTML-based resume/portfolio webpage showcasing your professional experience, skills, projects, and education.
 
-🌐 **Live Demo**: [View Resume](https://santra98.github.io/Resume_Page/)
+🌐 **Live Demo**: [View Resume](https://santra-resume.netlify.app/)
 
 ## 📋 Features
 
@@ -100,12 +100,11 @@ Resume_Page/
 
 ## 📄 Deployment
 
-### Deploy to GitHub Pages (Free):
-1. Your resume is already live at: **https://santra98.github.io/Resume_Page/**
-2. The site updates automatically when you push changes to the GitHub repository
+### Deployment:
+1. Your resume is already live at: **https://santra-resume.netlify.app/**
+2. The site is hosted on Netlify and updates automatically when you push changes to the GitHub repository
 
 ### Deploy to Other Hosting:
-- Netlify
 - Vercel
 - Traditional web hosting
 
